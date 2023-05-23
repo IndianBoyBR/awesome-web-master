@@ -59,6 +59,8 @@
 
 - [**Design Systems Repo**](https://designsystemsrepo.com/) - A frequently updated collection of Design System examples, articles, tools, and talks.
 
+- [**Atomic Design**](https://github.com/bradfrost/atomic-design/) - A pioneering methodology for creating design systems, crafted by Brad Frost. It's a remarkable resource for enhancing your understanding of scalable, effective design strategies.
+
 - [**Smashing Magazine**](https://www.smashingmagazine.com/) - An online magazine for professional Web designers and developers, with a focus on useful techniques, best practices and valuable resources.
 
 - [**Awesome Angular**](https://github.com/PatrickJS/awesome-angular) - A curated list of awesome Angular resources.
@@ -96,6 +98,8 @@
 ### Programming - JavaScript && TypeScript resources
 
 - [**Awesome VS Code**](https://github.com/viatsko/awesome-vscode) - A curated list of delightful VS Code packages and resources.
+
+- [**FreeCodeCamp**](https://www.freecodecamp.org/learn) - An expansive online platform offering free coding lessons and certifications. It's an excellent way to learn and master various programming languages and development tools at your own pace.
 
 - [**JavaScript The Right Way**](https://jstherightway.org/) - A guide intended to introduce new developers to JavaScript and help experienced developers learn more.
 
@@ -137,7 +141,7 @@
 
 ### Dev Communities
 
-- [**FreeCodeCamp Forum**](https://forum.freecodecamp.org/) - An online community forum associated with freeCodeCamp, an organization that provides interactive coding lessons and projects. Don't forget to enhance and test your skills with their resources at https://www.freecodecamp.org/learn.
+- [**FreeCodeCamp Forum**](https://forum.freecodecamp.org/) - An online community forum associated with FreeCodeCamp, an organization that provides interactive coding lessons and projects. Don't forget to enhance and test your skills with their resources at https://www.freecodecamp.org/learn.
 
 - [**Dev.to**](https://dev.to/) - An online community for sharing and discovering great ideas, having meaningful conversations, and making connections with software developers.
 
