@@ -23,6 +23,8 @@
 
 - [**Awesome React**](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding the React ecosystem.
 
+- [**30 Days of React**](https://github.com/Asabeneh/30-Days-Of-React) - A comprehensive 30-day challenge by Asabeneh Yetayeh, designed to boost your React proficiency. It's an excellent way to hone your skills in this widely used JavaScript library.
+
 - [**Typescript Cheatsheets React**](https://github.com/typescript-cheatsheets/react) - Cheatsheets for experienced React developers getting started with TypeScript.
 
 - [**Type Fest**](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types.
@@ -76,6 +78,8 @@
 - [**AWS EKS Best Practices**](https://github.com/aws/aws-eks-best-practices) - A collection of recommendations for optimizing Amazon's Elastic Kubernetes Service (EKS) to ensure efficient performance.
 
 - [**Kubernetes Best Practices**](https://github.com/diegolnasc/kubernetes-best-practices) - This GitHub repository, curated by diegolnasc, shares valuable best practices, tips, and tricks for managing Kubernetes deployments.
+
+- [**Zalando's RESTful API Guidelines**](https://opensource.zalando.com/restful-api-guidelines/) - An extensive set of guidelines for building RESTful APIs, provided by Zalando. It's a superb resource to master the principles of creating effective APIs.
 
 - [**API Cheat Sheet**](https://github.com/RestCheatSheet/api-cheat-sheet) - This repository delivers a practical cheat sheet for designing and building APIs, making it an indispensable tool for developers working on API development.
 
