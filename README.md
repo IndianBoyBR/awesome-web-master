@@ -7,75 +7,11 @@
 <!-- code_chunk_output -->
 
 - [Front-end resources](#front-end-resources)
-  - [React with Clean Architecture](#react-with-clean-architecture)
-  - [React Best Practices](#react-best-practices)
-  - [Patterns.dev](#patterns-dev)
-  - [Awesome React](#awesome-react)
-  - [Typescript Cheatsheets React](#typescript-cheatsheets-react)
-  - [Type Fest](#type-fest)
-  - [React Styleguidist](#react-styleguidist)
-  - [Awesome Next.js](#awesome-nextjs)
-  - [Web Skills](#web-skills)
-  - [Frontend Tips](#frontend-tips)
-  - [Frontend Guidelines Questionnaire](#frontend-guidelines-questionnaire)
-  - [Front-End Checklist](#front-end-checklist)
-  - [Front-End Performance Checklist](#front-end-performance-checklist)
-  - [Frontend Mentor](#frontend-mentor)
-  - [Webframe](#webframe)
-  - [Webpack Config Plugins](#webpack-config-plugins)
-  - [CSS-Tricks](#css-tricks)
-  - [Style Guide](#style-guide)
-  - [Vue.js Guide](#vuejs-guide)
-  - [Awesome Vue](#awesome-vue)
-  - [Design Systems Repo](#design-systems-repo)
-  - [Smashing Magazine](#smashing-magazine)
-  - [Awesome Angular](#awesome-angular)
-  - [Angular Folder Structure](#angular-folder-structure)
-  - [Docz](#docz)
-- [Back-end (Node.js) resources](#back-end---node.js-resources)
-  - [Node Best Practices](#node-best-practices)
-  - [The Node Way](#the-node-way)
-  - [Node.js Integration Tests Best Practices](#node.js-integration-tests-best-practices)
-  - [AWS EKS Best Practices](#aws-eks-best-practices)
-  - [Kubernetes Best Practices](#kubernetes-best-practices)
-  - [API Cheat Sheet](#api-cheat-sheet)
-  - [Awesome Node.js](#awesome-nodejs)
-  - [Awesome Express](#awesome-express)
-  - [Awesome GraphQL](#awesome-graphql)
-  - [Awesome Nest.js](#awesome-nestjs)
-  - [Awesome Micro](#awesome-micro)
-- [Programming - JavaScript && TypeScript resources](#programming---javascript-&&-typescript-resources)
-  - [Awesome VS Code](#awesome-vs-code)
-  - [JavaScript The Right Way](#javascript-the-right-way)
-  - [Airbnb JavaScript Style Guide](#airbnb-javascript-style-guide)
-  - [JavaScript30](#javascript30)
-  - [Awesome JavaScript](#awesome-javascript)
-  - [Awesome JavaScript Learning](#awesome-javascript-learning)
-  - [Awesome TypeScript](#awesome-typescript)
-  - [Awesome Jest](#awesome-jest)
-  - [Awesome JavaScript Libraries](#awesome-javascript-libraries)
-  - [JavaScript Testing Best Practices](#javascript-testing-best-practices)
-  - [Engineering Best Practices by 10up](#engineering-best-practices-by-10up)
-  - [Project Guidelines](#project-guidelines)
-  - [Best Practices](#best-practices)
-  - [Clean Code JavaScript](#clean-code-javascript)
-  - [Clean Code TypeScript](#clean-code-typescript)
-  - [TypeScript Deep Dive](#typescript-deep-dive)
-- [Dev Communities](#programming---javascript-&&-typescript-resources)
-  - [FreeCodeCamp Forum](#freecodecamp-forum)
-  - [Dev.to](#devto)
-  - [Google Developers Blog](#google-developers-blog)
-  - [The Next Web](#the-next-web)
-  - [Web.dev](#webdev)
-  - [SourceForge](#sourceforge)
-  - [Hacker Noon](#hacker-noon)
-  - [Indie Hackers](#indie-hackers)
-  - [Medium/programming](#mediumprogramming)
-  - [Reddit/programming](#redditprogramming)
-  - [Hashnode](#hashnode)
+- [Back-end (Node.js) resources](#back-end-nodejs-resources)
+- [Programming - JavaScript && TypeScript resources](#programming---javascript--typescript-resources)
+- [Dev Communities](#dev-communities)
 <!-- /code_chunk_output -->
 </details>
-
 
 ### Front-end resources
 
@@ -205,7 +141,7 @@
 
 - [**The Next Web**](https://thenextweb.com/) - A popular online publication giving an international perspective on the latest technology, business, and culture news.
 
-- [**Daily.dev**](https://daily.dev/) -  Daily.dev is a curated platform for developers, providing a feed of programming articles, news, and resources. Additionally, they also offers a Google [Chrome Extension](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied) for easy access to their curated content right from the new tab page.
+- [**Daily.dev**](https://daily.dev/) - Daily.dev is a curated platform for developers, providing a feed of programming articles, news, and resources. Additionally, they also offers a Google [Chrome Extension](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied) for easy access to their curated content right from the new tab page.
 
 - [**Web.dev**](https://web.dev/) - A resource from Google providing developers with tools and knowledge to build and maintain high-quality websites.
 
