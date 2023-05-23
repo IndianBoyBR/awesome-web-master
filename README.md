@@ -10,6 +10,7 @@
 - [Back-end (Node.js) resources](#back-end-nodejs-resources)
 - [Programming - JavaScript && TypeScript resources](#programming---javascript--typescript-resources)
 - [Dev Communities](#dev-communities)
+- [Podcasts (? - TO DO)](#)
 <!-- /code_chunk_output -->
 </details>
 
@@ -19,7 +20,7 @@
 
 - [**React Best Practices**](https://github.com/kudos-dude/react-best-practices) - This repository, maintained by kudos-dude, assembles a collection of best practices, tips, and tricks for writing React.js applications effectively.
 
-- [**Patterns.dev**](https://www.patterns.dev/) is a site rich with resources, tutorials, and articles on software design patterns and best practices mostly for React.js.
+- [**Patterns.dev**](https://www.patterns.dev/) - is a site rich with resources, tutorials, and articles on software design patterns and best practices mostly for React.js.
 
 - [**Awesome React**](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding the React ecosystem.
 
