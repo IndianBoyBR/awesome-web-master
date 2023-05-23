@@ -205,6 +205,8 @@
 
 - [**The Next Web**](https://thenextweb.com/) - A popular online publication giving an international perspective on the latest technology, business, and culture news.
 
+- [**Daily.dev**](https://daily.dev/) -  Daily.dev is a curated platform for developers, providing a feed of programming articles, news, and resources. Additionally, they also offers a Google [Chrome Extension](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied) for easy access to their curated content right from the new tab page.
+
 - [**Web.dev**](https://web.dev/) - A resource from Google providing developers with tools and knowledge to build and maintain high-quality websites.
 
 - [**SourceForge**](https://sourceforge.net/) - A web-based service for open source developers to share and collaborate on software development projects.
